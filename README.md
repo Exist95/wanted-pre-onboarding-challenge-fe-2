@@ -48,5 +48,5 @@ Item {
 }
 ```
 ### Reference
-- use JSDoc
-- JSDoc Boilerplate
+- use JSDoc(https://jsdoc.app/)
+- JSDoc Boilerplate(https://github.com/pocojang/jsdoc-boilerplate)
